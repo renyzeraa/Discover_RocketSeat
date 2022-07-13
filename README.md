@@ -97,19 +97,16 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 ### Programação Funcional
 
-32min em 16 aulas
-A unidade de aprendizagem destrincha conceitos da programação funcional, como programação imperativas e declarativas, imutabilidade, stateless, funções independentes e puras, first-class, higher-order e composição.
+- [ ] A unidade de aprendizagem destrincha conceitos da programação funcional, como programação imperativas e declarativas, imutabilidade, stateless, funções independentes e puras, first-class, higher-order e composição.
 
 ### Guia Estelar de GIT
 
-1h59min em 37 aulas
-As aulas revelam a importância do Git, tipos de controle de versões, configurações, CheatSheet, estados (modificado, preparado e commited), git log, hash values e head.
+- [ ] As aulas revelam a importância do Git, tipos de controle de versões, configurações, CheatSheet, estados (modificado, preparado e commited), git log, hash values e head.
 
 ### Guia Estelar de GitHub
 
-1h1min em 21 aulas
-O módulo instrui como inserir códigos na nuvem do GitHub, incluindo visualização de histórico, criação de repositório, repositório remoto e local, pesquisa, estrelas e git clone.
+- [ ] O módulo instrui como inserir códigos na nuvem do GitHub, incluindo visualização de histórico, criação de repositório, repositório remoto e local, pesquisa, estrelas e git clone.
 
-Guia estelar de HTTP
-1h30min em 35 aulas
-O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
+### Guia estelar de HTTP
+
+- [ ] O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
