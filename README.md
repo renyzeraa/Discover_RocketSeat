@@ -110,3 +110,15 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 ### Guia estelar de HTTP
 
 - [ ] O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
+
+## Contato
+
+<img align="left" src="https://avatars.githubusercontent.com/renyzeraa?size=100">
+
+Feito por [Renan Silva](https://github.com/renyzeraa)!
+
+<a href="https://www.linkedin.com/in/renan-silva-307733224/" target="_blank">
+    <img style="border-radius:50%;" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>&nbsp;
+
+<br clear="left"/>
