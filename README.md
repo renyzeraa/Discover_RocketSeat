@@ -47,78 +47,66 @@
 21min em 14 aulas
 Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por isso, vamos aprender sobre tipografia na web com CSS.
 
-10
-Formulários de outro planeta
-1h50min em 26 aulas
-A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
+### Formulários de outro planeta
 
-11
-Guia Estelar JavaScript
-5h em 73 aulas
-As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
+- [ ] A tag form no HTML é a maneira mais tradicional de interagir com o usuário da aplicação e é incrível o que é possível com esse elemento.
 
-12
-HTML que faz sentido, para todos
-31min em 12 aulas
-A web é um espaço para todos e, por isso, precisamos entender sobre semântica dos elementos e acessibilidade do HTML.
+### Guia Estelar JavaScript
 
-13
-Nem só de classes ou IDs
-35min em 15 aulas
-Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras de CSS e vamos conhecer todas elas agora.
+- [ ] As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
 
-14
-Alinhando os planetas
-1h3min em 34 aulas
-Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
+### HTML que faz sentido, para todos
 
-15
-Pilotando com a DOM
-56min em 28 aulas
-O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
+- [ ] A web é um espaço para todos e, por isso, precisamos entender sobre semântica dos elementos e acessibilidade do HTML.
 
-16
-Terminal
-1h5min em 21 aulas
-O conteúdo familiariza termos para o assunto de linha de comando, como Unix, kernel, shell, comandos e utilitários, arquivos e diretórios e bash.
+### Nem só de classes ou IDs
 
-17
-NodeJS
-2h1min em 46 aulas
-Atributos e funcionamento do Node, vantagens, variáveis globais, NPM, iniciação de pacotes, scripts, dependências globais, timers e módulo de eventos.
+- [ ] Existem muitas formas de selecionarmos o elemento do HTML para aplicarmos regras de CSS e vamos conhecer todas elas agora.
 
-18
-NodeJS + EJS
-1h8min em 7 aulas
-Este módulo é dedicado à programação no HTML. Por meio do EJS, você vai entender como o Javascript constrói o HTML com NodeJS e Express.
+### Alinhando os planetas
 
-19
-SQL
-1h28min em 38 aulas
-A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, recuperar e trabalhar informações com comandos SQL. Trabalha conceitos como tabelas, campos, Comando SELECT, e instrui o uso de operadores relacionais, matemáticos, lógicos e comandos avançados.
+- [ ] Com o CSS moderno, nós podemos posicionar, alinhar, ordenar e trabalhar com os elementos de maneira flexível. Esse e outros poderes do Flexbox você vai conhecer agora.
 
-20
-Estrutura de Dados
-23min em 13 aulas
-O módulo traz conceitos básicos de dados no intuito de instruir aqueles que queiram conhecer o básico de apresentação e modelagem de estruturas de dados com Java Script
+### Pilotando com a DOM
 
-21
-Programação Orientada a Objetos
-30min em 17 aulas
-A coletânea de aulas explana conceitos como objetos, classes, encapsulamento, programação estruturada e orientada a objetos, herança, polimorfismo e abstração.
+- [ ] O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
 
-22
-Programação Funcional
+### Terminal
+
+- [ ] O conteúdo familiariza termos para o assunto de linha de comando, como Unix, kernel, shell, comandos e utilitários, arquivos e diretórios e bash.
+
+### NodeJS
+
+- [ ] Atributos e funcionamento do Node, vantagens, variáveis globais, NPM, iniciação de pacotes, scripts, dependências globais, timers e módulo de eventos.
+
+### NodeJS + EJS
+
+- [ ] Este módulo é dedicado à programação no HTML. Por meio do EJS, você vai entender como o Javascript constrói o HTML com NodeJS e Express.
+
+### SQL
+
+- [ ] A unidade de aprendizagem apresenta serviços de bancos de dados, como guardar, recuperar e trabalhar informações com comandos SQL. Trabalha conceitos como tabelas, campos, Comando SELECT, e instrui o uso de operadores relacionais, matemáticos, lógicos e comandos avançados.
+
+### Estrutura de Dados
+
+- [ ] O módulo traz conceitos básicos de dados no intuito de instruir aqueles que queiram conhecer o básico de apresentação e modelagem de estruturas de dados com Java Script
+
+### Programação Orientada a Objetos
+
+- [ ] A coletânea de aulas explana conceitos como objetos, classes, encapsulamento, programação estruturada e orientada a objetos, herança, polimorfismo e abstração.
+
+### Programação Funcional
+
 32min em 16 aulas
 A unidade de aprendizagem destrincha conceitos da programação funcional, como programação imperativas e declarativas, imutabilidade, stateless, funções independentes e puras, first-class, higher-order e composição.
 
-23
-Guia Estelar de GIT
+### Guia Estelar de GIT
+
 1h59min em 37 aulas
 As aulas revelam a importância do Git, tipos de controle de versões, configurações, CheatSheet, estados (modificado, preparado e commited), git log, hash values e head.
 
-24
-Guia Estelar de GitHub
+### Guia Estelar de GitHub
+
 1h1min em 21 aulas
 O módulo instrui como inserir códigos na nuvem do GitHub, incluindo visualização de histórico, criação de repositório, repositório remoto e local, pesquisa, estrelas e git clone.
 
