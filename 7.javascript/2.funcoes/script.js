@@ -51,3 +51,17 @@ let sayMyName = () => {
 }
 
 sayMyName()
+
+// callback um funcao dentro da outra
+
+function sayMyName1(name) {
+  console.log('Primeiro passo, antes da callback')
+
+  name()
+
+  console.log('Terceiro passo, depois da callback')
+}
+
+sayMyName1(() => {
+  console.log('Callback')
+})
