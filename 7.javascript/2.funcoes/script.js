@@ -65,3 +65,15 @@ function sayMyName1(name) {
 sayMyName1(() => {
   console.log('Callback')
 })
+
+// constructor functions
+
+function Person(name) {
+  this.name = name
+  this.walk = () => {
+    return this.name + ' esta andando'
+  }
+}
+
+let renan = new Person('Renan')
+console.log(renan.walk())
