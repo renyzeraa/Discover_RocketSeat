@@ -19,7 +19,19 @@ const sum2 = (x, y) => {
   return total // function sempre retorna algo
 }
 
-let x = 10
-let y = 20
+let a = 10
+let b = 20
 
-console.log(sum2(x, y))
+console.log(sum2(a, b))
+
+// function scope
+
+let subject = 'Ser ou não ser'
+
+function createThink(subject) {
+  subject = 'Study'
+  return subject
+}
+
+console.log(subject)
+console.log(createThink(subject))
