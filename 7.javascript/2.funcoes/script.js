@@ -35,3 +35,11 @@ function createThink(subject) {
 
 console.log(subject)
 console.log(createThink(subject))
+
+// function hoisting
+
+sayMyName()
+
+function sayMyName() {
+  console.log('Renan')
+}
