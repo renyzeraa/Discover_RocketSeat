@@ -38,8 +38,16 @@ console.log(createThink(subject))
 
 // function hoisting
 
-sayMyName()
+// sayMyName()
 
-function sayMyName() {
+// function sayMyName() {
+//   console.log('Renan')
+// }
+
+//mesma funcao com arrow function
+//funcao nao declarada nao funciona o hoisting
+let sayMyName = () => {
   console.log('Renan')
 }
+
+sayMyName()
