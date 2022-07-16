@@ -111,14 +111,17 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 - [ ] O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
 
-## Contato
+## Contact
 
 <img align="left" src="https://avatars.githubusercontent.com/renyzeraa?size=100">
 
-Feito por [Renan Silva](https://github.com/renyzeraa)!
+Made with ❤️ by [Renan L. Silva](https://github.com/renyzeraa)! <br>
+🛠 Frontend Developer Jr. <br>
+📍 Santa Catarina - Brazil <br>
 
-<a href="https://www.linkedin.com/in/renan-silva-307733224/" target="_blank">
-    <img style="border-radius:50%;" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>&nbsp;
+<a href="https://www.linkedin.com/in/renyzeraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>&nbsp;
+<a href="mailto:renansilvaytb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="20"></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="renan_s#7826" alt="Discord Badge" height="20"></a>&nbsp;
+<a href="https://www.github.com/renyzeraa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="20"></a>&nbsp;
 
 <br clear="left"/>
