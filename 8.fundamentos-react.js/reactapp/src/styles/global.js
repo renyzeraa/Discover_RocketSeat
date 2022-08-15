@@ -1,16 +1,19 @@
-import styled from 'styled-components'
+import { createGlobalStyle } from 'styled-components'
 
-export const GlobalStyles = styled.div`
+export default createGlobalStyle`
   * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
-  max-width: 900px;
-  height: 100vh;
+  body {
+    background: powderblue;
+    width: 100vw;
+    height: 100vh;
 
-  margin: 0 auto;
+    font-family: 'Roboto Slab', serif;
 
-  font-family: 'Roboto Slab', serif;
-  -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+  }
+  
 `
