@@ -1,11 +1,28 @@
 import styled from 'styled-components'
 
 export const Container = styled.div`
-  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px 0;
 
-  h1 {
-    margin-bottom: 16px;
-    font-size: 32px;
+    h1 {
+      font-size: 32px;
+    }
+
+    div {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+      }
+    }
   }
 
   input {
@@ -29,10 +46,11 @@ export const Container = styled.div`
     color: white;
     cursor: pointer;
     font-weight: 700;
+    margin-bottom: 64px;
     &:hover {
       transition: 0.5s;
       filter: brightness(1.1);
-      transform: scale(1.1);
+      transform: scale(1.05);
     }
   }
 `
