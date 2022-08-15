@@ -1,10 +1,10 @@
 import { Container } from './styles'
 
-export function Card() {
+export function Card({ name, time }) {
   return (
     <Container>
-      <strong>Renan Leandro da Silva</strong>
-      <small>15:06:32</small>
+      <strong>{name}</strong>
+      <small>{time}</small>
     </Container>
   )
 }
