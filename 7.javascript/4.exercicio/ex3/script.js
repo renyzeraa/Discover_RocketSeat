@@ -12,7 +12,7 @@
 function transformDegree(deg) {
   const celsiusExists = deg.toUpperCase().includes('C')
   const fahrenheitExists = deg.toUpperCase().includes('F')
-
+  const degree = deg.toUpperCase()
   //fluxo de erro
   if (!fahrenheitExists && !celsiusExists) {
     throw new Error('Invalid degree: ' + deg)
@@ -32,11 +32,10 @@ function transformDegree(deg) {
 
   return formula(updatedDegree) + degreeSign
 }
-
 try {
   console.log(transformDegree('50f'))
   console.log(transformDegree('10C'))
-  transformDegree('10z')
+  console.log(transformDegree('10Cz'))
 } catch (e) {
   console.log(e.message)
 }
